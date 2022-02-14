@@ -1,3 +1,3 @@
 # may-the-CI-be-with-you
 
-Just to test foundry CI
+Just to test foundry CI.
